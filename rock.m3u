@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Rock Entertainment
+#EXTVLCOPT:http-user-agent=Dart/3.10 (dart:io)
+#EXTHTTP:{"attributes": {"api-key": "59tgtpiim7387jsrm9asvjr"}}
+http://edge-2.m-fixer.net:8088/stream/ais/rockentertainment/master.m3u8?uid=2427645533
